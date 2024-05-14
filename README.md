@@ -1,7 +1,6 @@
-# Clima Agora
+# Previsão do Tempo
 ## Sobre o projeto
-Este repositório foi criado para colocar em prática os conhecimentos adquiridos no curso de Informática para Internet, como a utilização de API e aprofundamento dos comandos em JavaScript.
-O objetivo do projeto foi fazer uma página em que o usuário, ao escolher uma cidade existente, poderia conferir o clima da cidade, como a temperatura, por exemplo.
+O objetivo do projeto foi bem parecido com o projeto "Clima Agora", mas de forma mais simples. O usuário, ao colocar uma cidade no campo indicado, recebe apenas a temperatura em graus celcius, e se ela não existir aparecerá um aviso. 
 
 ## Layout do projeto
 ![Prévia da Imagem]
