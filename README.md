@@ -11,7 +11,7 @@ O objetivo do projeto foi bem parecido com o projeto "Clima Agora", mas de forma
 * CSS 
 * Javascript
 
-## Autores
+## Autor
 <b>Aline Kettylen Oliveira da Silva
 
 Ana Carla
